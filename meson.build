@@ -1,6 +1,6 @@
 project('pipewire', 'c',
   version : '0.2.9',
-  meson_version : '>= 0.42.0',
+  meson_version : '>= 0.44.0',
   default_options : [ 'warning_level=1',
                       'c_std=gnu99',
                       'buildtype=debugoptimized' ])
